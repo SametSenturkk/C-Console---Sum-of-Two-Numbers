@@ -1,0 +1,6 @@
+C:\Users\Samet\Desktop\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\Sum of Two Numbers.exe.config
+C:\Users\Samet\Desktop\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\Sum of Two Numbers.exe
+C:\Users\Samet\Desktop\Sum of Two Numbers\Sum of Two Numbers\bin\Debug\Sum of Two Numbers.pdb
+C:\Users\Samet\Desktop\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\Sum of Two Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Samet\Desktop\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\Sum of Two Numbers.exe
+C:\Users\Samet\Desktop\Sum of Two Numbers\Sum of Two Numbers\obj\Debug\Sum of Two Numbers.pdb
